@@ -1,0 +1,1 @@
+# streamassist-datastorespec-example
